@@ -27,7 +27,7 @@ Resolved system-level authentication collisions by enforcing local `.env` overri
 ## ⚙️ Setup & Installation
 1. **Clone the repo**:
    ```bash
-   git clone [[https://github.com/YOUR_USERNAME/tech-intelligence-agent.git](https://github.com/Rafaymughal159/tech-intelligence-agent.git)](https://github.com/Rafaymughal159/tech-intelligence-agent.git)
+   git clone [[[https://github.com/Rafaymughal159/tech-intelligence-agent.git](https://github.com/Rafaymughal159/tech-intelligence-agent.git)](https://github.com/Rafaymughal159/tech-intelligence-agent.git)](https://github.com/Rafaymughal159/tech-intelligence-agent.git)
    cd tech-intelligence-agent
 
 
